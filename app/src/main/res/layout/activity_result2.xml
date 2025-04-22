@@ -22,13 +22,13 @@
             android:layout_marginStart="24dp"
             android:layout_marginBottom="16dp"
             android:src="@drawable/ic_weight"
-            app:tint="@color/white" />
+             />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="24dp"
-            android:text="Calcular IMC"
+            android:text="Calculadora IMC"
             android:textSize="24sp"
             android:textColor="@color/white"
             android:textStyle="bold" />
