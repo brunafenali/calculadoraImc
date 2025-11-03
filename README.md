@@ -42,7 +42,6 @@ Este projeto reforçou meu conhecimento em **arquitetura MVVM** e integração e
 
 ---
 
-## 📜 License
 The MIT License (MIT)
 
 Copyright (c) 2025 Bruna Costa Fenali
