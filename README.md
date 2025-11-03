@@ -40,8 +40,9 @@ Permite calcular o IMC rapidamente e exibir a classificação de acordo com a OM
 Durante o desenvolvimento, aprimorei o uso de **State e recomposição no Jetpack Compose**, boas práticas de UI declarativa e lógica de cálculo de forma limpa e organizada.  
 Este projeto reforçou meu conhecimento em **arquitetura MVVM** e integração entre **ViewModel e UI**.
 
----
 ## 📜 Licença
+
+
 
 A Licença MIT (MIT)
 
